@@ -1,9 +1,6 @@
 # React Native Drawer Navigation
 
-This is a working app in which I have implemented all the basic starter screens like landing, login, register, and forgot page.
-
-The app uses firebase, and config file has to be fed with api data in order to work with ease. With login, and register functionality, data of users is stored realtime in firebase. All the pages are validated with custom components, and forgot password functions have been implemented which helps user to reset the password using inbuilt firebase functions.
-
+This is a drawer navigation starter, and all the screens are using React Navigation 4.
 
 <p float="left" width="100%" style="padding-top:50px">
   <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/Drawer.jpg" width="24%" />
@@ -29,7 +26,7 @@ In the root directory
 
 <p float="center" width="100%" style="padding-top:50px">
   <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/drawer.PNG" width="25%" />
-  </p>
+ </p>
 
 
 
@@ -53,23 +50,15 @@ In the root directory
 |react-navigation-stack|^2.5.1|
 
 
-## AUTHENTICATION
+## CUSTOMIZATION
 
-Firebase Authentication modules are used.
+It can be used for any projects since all the libraries are upto the date except react navigation which is using version four 
 
 ## COMPONENTS
 
 Some shared components that might be helpful
 
-* BackButton.js - A button navigating previous screen
-* Background.js - Attach any background you want to any screen.
-* Button.js - A button with styling
-* Header.js - A header component
-* Logo.js - Renders the logo of the app
-* Paragraph.js - Wraps with text styling
-* TextInput.js - Input elements
-* Toast.js - A notification message with error being shown.
-
+* CustomDrawer.js - A sidebar menu with profile image, and multiple navbars.
 
 ## License
 
