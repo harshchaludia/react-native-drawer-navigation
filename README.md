@@ -25,23 +25,13 @@ In the root directory
 * Generate APK & IPA: `expo build:status`
 
 
-## FIREBASE 
+## DIRECTORY STRUCTURE 
+
+<p float="center" width="100%" style="padding-top:50px">
+  <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/drawer.PNG" width="50%" />
+  </p>
 
 
-In the `master/src/core/config.js` directory,
-
-Replace "" with your own firebase config!
-
-``export const FIREBASE_CONFIG = {
-apiKey: "",
-authDomain: "",
-databaseURL: "",
-projectId: "",
-storageBucket: "",
-messagingSenderId: "",
-appId: "",
-measurementId: ""
-};``
 
 ## PACKAGES 
 
