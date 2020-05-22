@@ -6,10 +6,10 @@ The app uses firebase, and config file has to be fed with api data in order to w
 
 
 <p float="left" width="100%" style="padding-top:50px">
-  <img src="https://github.com/harshchaludia/react-native-firebase-starter/blob/master/screenshots/App_Screen.jpg" width="24%" />
-  <img src="https://github.com/harshchaludia/react-native-firebase-starter/blob/master/screenshots/Login_Screen.jpg" width="24%" /> 
-  <img src="https://github.com/harshchaludia/react-native-firebase-starter/blob/master/screenshots/Register_Screen.jpg" width="24%" />
-  <img src="https://github.com/harshchaludia/react-native-firebase-starter/blob/master/screenshots/Forgot_Password.jpg" width="24%" />
+  <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/Drawer.jpg" width="24%" />
+  <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/Page1.jpg" width="24%" /> 
+  <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/Page2.jpg" width="24%" />
+  <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/Page3.jpg" width="24%" />
 
 </p>
 
